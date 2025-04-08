@@ -1103,3 +1103,18 @@
 [23:27:12 | 07-04-2025] Wallet Address: 0x21e606C393D34341c5cA7531172fAc0731317F2c
 [23:27:12 | 07-04-2025] Node Points: 1007112
 [23:27:12 | 07-04-2025] Last Claim Point: 06/04/2025 20:22:05
+[08:48:30 | 08-04-2025] Wallet Address: 0x21e606C393D34341c5cA7531172fAc0731317F2c
+[08:48:30 | 08-04-2025] Node Points: 1007112
+[08:48:30 | 08-04-2025] Last Claim Point: 06/04/2025 20:22:05
+[08:48:31 | 08-04-2025] ✅ Points claimed for 0x21e606C393D34341c5cA7531172fAc0731317F2c
+[08:48:32 | 08-04-2025] 🚨 Failed to start node for 0x21e606C393D34341c5cA7531172fAc0731317F2c: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x21e606C393D34341c5cA7531172fAc0731317F2c/start</pre>
+</body>
+</html>
+
